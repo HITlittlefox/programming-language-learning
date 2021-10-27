@@ -1,0 +1,116 @@
+body {
+    font-size: small;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+#guarantee {
+    line-height: 1.9em;
+    font-style: italic;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #444444;
+    border-color: white;
+    border-width: 1px;
+    border-style: dashed;
+    background-color: #a7cece;
+    padding: 25px 25px 25px 80px;
+    margin: 30px 250px 30px 30px;
+    background-image: url("Desktop/PLL/programming-language-learning/HEADFIRST-HTML-CSS/chapter10/lounge/images/background.gif");
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+#elixirs {
+    border-width: thick;
+    border-style: solid;
+    border-color: #007e7e;
+    width: 200px;
+    padding: 0 20px 30px 10px;
+    margin: 0 20px 30px 10px;
+    line-height: 1;
+
+    text-align: center;
+    background-image: url(images/cocktail.gif);
+    background-repeat: repeat-x;
+    float: right;
+}
+
+#elixirs h2 {
+    color: black;
+}
+
+#elixirs h3 {
+    color: #d12c47;
+}
+
+#footer {
+    font-size: 50%;
+    text-align: center;
+    line-height: normal;
+    margin-top: 30px;
+}
+
+.cd {
+    font-style: italic;
+}
+
+.artist {
+    font-weight: bold;
+}
+
+/*a:link {*/
+/*    color: green;*/
+/*}*/
+
+/*a:visited {*/
+/*    color: red;*/
+/*}*/
+
+/*a:hover {*/
+/*    color: yellow;*/
+/*}*/
+
+#elixirs a:link {
+    color: #007e7e;
+}
+
+#elixirs a:visited {
+    color: #333333;
+}
+
+#elixirs a:hover {
+    color: #0d5353;
+    background: #f88396;
+}
+
+#Detailed a:link {
+    color: red;
+}
+
+#Detailed a:visited {
+    color: #333333;
+}
+
+
+
+
+
+
+
+
+
+
+
+

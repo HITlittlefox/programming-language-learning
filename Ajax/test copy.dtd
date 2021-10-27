@@ -1,0 +1,6 @@
+<!ELEMENT root (#PCDATA|button|script)*>
+<!ELEMENT button (#PCDATA)>
+<!ATTLIST button id NMTOKEN #REQUIRED>
+<!ATTLIST button type NMTOKEN #REQUIRED>
+<!ATTLIST button onclick CDATA #REQUIRED>
+<!ELEMENT script (#PCDATA)>

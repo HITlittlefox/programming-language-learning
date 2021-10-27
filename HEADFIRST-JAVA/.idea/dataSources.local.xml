@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-212.5284.40">
+    <data-source name="安然干细胞" uuid="b427e12c-640d-4b5b-8a47-8f74a94f15cd">
+      <database-info product="Oracle" version="Oracle Database 12c Standard Edition Release 12.1.0.2.0 - 64bit Production" jdbc-version="4.2" driver-name="Oracle JDBC driver" driver-version="21.1.0.0.0" dbms="ORACLE" exact-version="12.1.0.2.0" exact-driver-version="21.1">
+        <extra-name-characters>$#</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>ganxibao</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="PUBLIC" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

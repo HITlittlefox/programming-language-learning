@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE root SYSTEM "test%20copy.dtd">
+<root>
+    <button id="ajaxButton" type="button" onclick="makeRequest('test.xml')">Make a request</button>
+    I'm a test.
+    <script>
+            (function () {
+                var httpRequest;
+                document.getElementById("ajaxButton").addEventListener('click', makeRequest);
+    
+                function makeRequest() {
+                    httpRequest = new XMLHttpRequest();
+    
+                    if (!httpRequest) {
+                        alert('Giving up :( Cannot create an XMLHTTP instance');
+                        return false;
+                    }
+                    httpRequest.onreadystatechange = alertContents;
+                    httpRequest.open('GET', 'test.html');
+                    httpRequest.send();
+                }
+    
+                function alertContents() {
+                    try {
+                        if (httpRequest.readyState === XMLHttpRequest.DONE) {
+                            if (httpRequest.status === 200) {
+                                alert(httpRequest.responseText);
+                                var xmldoc = httpRequest.responseXML;
+                                var root_node = xmldoc.getElementsByTagName('root').item(0);
+                                alert(root_node.firstChild.data);
+    
+                            } else {
+                                alert('There was a problem with the request.');
+                            }
+                        }
+                    }
+                    catch (e) {
+                        alert('Caught Exception: ' + e.description);
+                    }
+                }
+    
+            })();
+        </script>
+</root>

@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    color: gray;
+}
+
+h1 {
+    border-bottom: 1px solid black;
+}
+
+p {
+    color: maroon;
+}
+
+
+/*改变greentea顺序到最后*/
+
+p.greentea {
+    color: green;
+}
+
+
+/*改变raspberry顺序到最后*/
+p.raspberry {
+    color: blue;
+}
+
+p.blueberry {
+    color: purple;
+}
