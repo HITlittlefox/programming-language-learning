@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="07701fab-fc1d-4b0b-9ed1-b3b02e582587" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap16/Jukebox1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap16/Jukebox1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap16/Jukebox3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap16/Jukebox3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap16/Jukebox5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap16/Jukebox5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java--HITymr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/FetchThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/FetchThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/SaveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/SaveThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/multiThreadingBankRefined.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/multiThreadingBankRefined.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/HomeWork/multiThreadingBankRefined.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/HomeWork/multiThreadingBankRefined.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +57,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -201,10 +193,16 @@
       <workItem from="1632901189252" duration="1589000" />
       <workItem from="1634371127085" duration="1817000" />
       <workItem from="1634633003621" duration="2466000" />
+      <workItem from="1635427264189" duration="26000" />
+      <workItem from="1635427442012" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
