@@ -15,14 +15,21 @@ public class App12_6<T> {
         return array;
     }
 
+    public void showArray(T[] array) {
+        for (T t : array) {
+            System.out.println(t + " ");
+        }
+    }
+
     public static void main(String[] args) {
 
         App12_6<String> a = new App12_6<String>();
         String[] array = {"Red", "Yellow", "Green"};
         a.setT(array);
-        for (int i = 0; i < a.getT().length; i++) {
-            System.out.println(a.getT()[i] + " ");
-        }
+        a.showArray(array);
+//        for (int i = 0; i < a.getT().length; i++) {
+//            System.out.println(a.getT()[i] + " ");
+//        }
 
     }
 }

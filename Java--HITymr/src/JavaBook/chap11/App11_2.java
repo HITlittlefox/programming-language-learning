@@ -25,12 +25,15 @@ class MyThread implements Runnable {
 
 public class App11_2 {
     public static void main(String[] args) {
+
         MyThread you = new MyThread("you");
         MyThread she = new MyThread("she");
         Thread t1 = new Thread(you);
-        Thread t2 = new Thread(you);
+        Thread t2 = new Thread(she);
+//        Thread t3 = new Thread(she);
         t1.start();
         t2.start();
+//        t3.start();
 
 
     }

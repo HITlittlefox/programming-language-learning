@@ -3,16 +3,6 @@ package JavaBook.chap2;
 class OuterClass {
 
 
-    public static void main(String[] args) {
-
-        OuterClass outerClass = new OuterClass();
-
-        InnerClass innerClass = outerClass.new InnerClass();
-
-        StaticInnerClass staticInnerClass = new StaticInnerClass();
-
-    }
-
     public void foo() {
 
         InnerClass innerClass = new InnerClass();
@@ -29,4 +19,16 @@ class OuterClass {
 
     }
 
+    public static void main(String[] args) {
+
+        OuterClass outerClass = new OuterClass();
+
+        //OuterClass类的内部类InnerClass
+        InnerClass innerClass = outerClass.new InnerClass();
+//        InnerClass innerClass = new InnerClass();
+
+
+        StaticInnerClass staticInnerClass = new StaticInnerClass();
+
+    }
 }

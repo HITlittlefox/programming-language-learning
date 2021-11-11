@@ -31,13 +31,13 @@ class CopyMaker {
     //复制内容
     private boolean copyFiles() {
         try {
-            //读
+            //从源文件读
             line = source.readLine();
-            //写
+            //往目标文件写
             while (line != null) {
                 dest.write(line);
                 dest.newLine();
-                //读
+                //从源文件读
                 line = source.readLine();
             }
         } catch (IOException iox) {
@@ -88,4 +88,4 @@ public class Ex10_6 {
         } else
             System.out.println("Please Enter File names");
     }
-}         
+}

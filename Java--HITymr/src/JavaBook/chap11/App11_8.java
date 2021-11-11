@@ -44,7 +44,9 @@ class Tickets {
         available = false;
         //唤醒另一个进程
         notify();
-        if (number == size) number = size + 1;
+        if (number == size) {
+            number = size + 1;
+        }
         //number>size表示售票结束
     }
 }
