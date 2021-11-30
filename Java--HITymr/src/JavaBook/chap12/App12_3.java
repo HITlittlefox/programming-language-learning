@@ -12,8 +12,8 @@ class GenMet<T> {
     public void setObj(T t) {
         this.t = t;
     }
-    //泛型类的方法
 
+    //泛型类的方法
     public T getT() {
         return t;
     }
@@ -48,10 +48,10 @@ public class App12_3 {
 //        gen.display(8.0);
 
 
-        //Java三元表达式有字符强转的功能，返回值类型为两个返回值中类型精度更高的那个类型。
-        int x = 2;
-        double y = (x < 1) ? 2.2 : 2;
-        System.out.println("value is " + y);
+//        //Java三元表达式有字符强转的功能，返回值类型为两个返回值中类型精度更高的那个类型。
+//        int x = 2;
+//        double y = (x < 1) ? 2.2 : 2;
+//        System.out.println("value is " + y);
     }
 }
 

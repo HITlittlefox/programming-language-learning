@@ -1,18 +1,20 @@
+package com.example.demo;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.*;
 
-public class App15_13 extends Application{  
-  private TextArea ta=new TextArea("ÎÒÏ²»¶ÓÃJavaFX±à³Ì");
+public class App15_13 extends Application{
+  private TextArea ta=new TextArea("ï¿½ï¿½Ï²ï¿½ï¿½ï¿½ï¿½JavaFXï¿½ï¿½ï¿½");
   @Override
   public void start(Stage stage){
       BorderPane rootBP=new BorderPane();
       rootBP.setCenter(ta);
-      RadioMenuItem rMI=new RadioMenuItem("ºìÉ«");
-      RadioMenuItem gMI=new RadioMenuItem("ÂÌÉ«");
-      RadioMenuItem bMI=new RadioMenuItem("À¶É«");
+      RadioMenuItem rMI=new RadioMenuItem("ï¿½ï¿½É«");
+      RadioMenuItem gMI=new RadioMenuItem("ï¿½ï¿½É«");
+      RadioMenuItem bMI=new RadioMenuItem("ï¿½ï¿½É«");
       rMI.setOnAction(e->ta.setStyle("-fx-text-fill:red"));
       gMI.setOnAction(e->ta.setStyle("-fx-text-fill:green"));//e->t.setFill(Color.GREEN)
       bMI.setOnAction(e->ta.setStyle("-fx-text-fill:blue"));
@@ -24,7 +26,7 @@ public class App15_13 extends Application{
       rgbCM.getItems().addAll(rMI,gMI,bMI);
       ta.setContextMenu(rgbCM);
       Scene scene=new Scene(rootBP,230,100);
-      stage.setTitle("µ¯³ö²Ëµ¥Ó¦ÓÃ³ÌÐò");
+      stage.setTitle("ï¿½ï¿½ï¿½ï¿½ï¿½Ëµï¿½Ó¦ï¿½Ã³ï¿½ï¿½ï¿½");
       stage.setScene(scene);
       stage.show();
   }

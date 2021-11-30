@@ -15,8 +15,9 @@ public class App12_2             //定义一般类，即非泛型类
 
     public static void main(String[] args) {
         Integer[] num = {1, 2, 3, 4, 5};                     //定义数组
-        String[] str = {"red", "Orange", "Yellow", "Green", "Cyanogen", "Blue", "Purple"};
         App12_2.display(num);    //调用泛型方法
+
+        String[] str = {"red", "Orange", "Yellow", "Green", "Cyanogen", "Blue", "Purple"};
         App12_2.display(str);
     }
 

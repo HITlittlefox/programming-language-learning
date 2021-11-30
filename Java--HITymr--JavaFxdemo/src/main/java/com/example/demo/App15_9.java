@@ -1,59 +1,59 @@
-import javafx.application.Application;
-import javafx.stage.Stage;
-import javafx.scene.Scene;
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
-import javafx.scene.control.*;
-import javafx.scene.image.ImageView;
-import javafx.beans.InvalidationListener;
-//import javafx.beans.value.ChangeListener;
-//import javafx.beans.value.ObservableValue;
-import javafx.beans.Observable;
-import javafx.scene.layout.*;
-import java.io.*;
-
-public class App15_9 extends Application{  
-  private String[] my={"±âÈµ","»ªÙ¢","ËïË¼åã","ÀîÊ±Õä","ÕÅÖÙ¾°","¸ðºé"};
-  private ImageView[] iv={new ImageView("images/±âÈµ.jpg"),new ImageView("images/»ªÙ¢.jpg"),
-                                          new ImageView("images/ËïË¼åã.jpg"),new ImageView("images/ÀîÊ±Õä.jpg"),
-                                          new ImageView("images/ÕÅÖÙ¾°.jpg"),new ImageView("images/¸ðºé.jpg")};
-  private ObservableList<String> items=FXCollections.observableArrayList(my);
-  private ListView<String> lv=new ListView<String>(items);
-  private FlowPane fp=new FlowPane(5,5);
-
-  @Override
-  public void start(Stage primaryStage){
-      lv.setPrefSize(80,100);
-      lv.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE);
-      BorderPane bp=new BorderPane();
-      bp.setLeft(new ScrollPane(lv));
-      bp.setCenter(fp);
-      lv.getSelectionModel().selectedItemProperty().addListener(new IListener());
-     /* lv.getSelectionModel().selectedItemProperty().addListener(
-      new ChangeListener<String>(){
-          public void changed(ObservableValue<? extends String> ov,String oldVal,String newVal){
-              fp.getChildren().clear();
-             System.out.println(lv.getSelectionModel().getSelectedIndices());
-             for(Integer i:lv.getSelectionModel().getSelectedIndices()){
-                fp.getChildren().add(iv[i]);
-             }
-          }
-      } );*/
-      Scene scene=new Scene(bp,360,130);
-      primaryStage.setTitle("ÁÐ±íÊÓÍ¼µÄÓ¦ÓÃ");
-      primaryStage.setScene(scene);
-      primaryStage.show();
-  }
-
- class IListener implements InvalidationListener{
-      @Override
-      public void invalidated(Observable ov){
-          fp.getChildren().clear();
-          System.out.println(lv.getSelectionModel().getSelectedIndices());
-          for(Integer i:lv.getSelectionModel().getSelectedIndices()){
-              fp.getChildren().add(iv[i]);
-              //System.out.println(i);
-          }
-      }
-  }
-}
+//import javafx.application.Application;
+//import javafx.stage.Stage;
+//import javafx.scene.Scene;
+//import javafx.collections.FXCollections;
+//import javafx.collections.ObservableList;
+//import javafx.scene.control.*;
+//import javafx.scene.image.ImageView;
+//import javafx.beans.InvalidationListener;
+////import javafx.beans.value.ChangeListener;
+////import javafx.beans.value.ObservableValue;
+//import javafx.beans.Observable;
+//import javafx.scene.layout.*;
+//import java.io.*;
+//
+//public class App15_9 extends Application{
+//  private String[] my={"ï¿½ï¿½Èµ","ï¿½ï¿½Ù¢","ï¿½ï¿½Ë¼ï¿½ï¿½","ï¿½ï¿½Ê±ï¿½ï¿½","ï¿½ï¿½ï¿½Ù¾ï¿½","ï¿½ï¿½ï¿½"};
+//  private ImageView[] iv={new ImageView("images/ï¿½ï¿½Èµ.jpg"),new ImageView("images/ï¿½ï¿½Ù¢.jpg"),
+//                                          new ImageView("images/ï¿½ï¿½Ë¼ï¿½ï¿½.jpg"),new ImageView("images/ï¿½ï¿½Ê±ï¿½ï¿½.jpg"),
+//                                          new ImageView("images/ï¿½ï¿½ï¿½Ù¾ï¿½.jpg"),new ImageView("images/ï¿½ï¿½ï¿½.jpg")};
+//  private ObservableList<String> items=FXCollections.observableArrayList(my);
+//  private ListView<String> lv=new ListView<String>(items);
+//  private FlowPane fp=new FlowPane(5,5);
+//
+//  @Override
+//  public void start(Stage primaryStage){
+//      lv.setPrefSize(80,100);
+//      lv.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE);
+//      BorderPane bp=new BorderPane();
+//      bp.setLeft(new ScrollPane(lv));
+//      bp.setCenter(fp);
+//      lv.getSelectionModel().selectedItemProperty().addListener(new IListener());
+//     /* lv.getSelectionModel().selectedItemProperty().addListener(
+//      new ChangeListener<String>(){
+//          public void changed(ObservableValue<? extends String> ov,String oldVal,String newVal){
+//              fp.getChildren().clear();
+//             System.out.println(lv.getSelectionModel().getSelectedIndices());
+//             for(Integer i:lv.getSelectionModel().getSelectedIndices()){
+//                fp.getChildren().add(iv[i]);
+//             }
+//          }
+//      } );*/
+//      Scene scene=new Scene(bp,360,130);
+//      primaryStage.setTitle("ï¿½Ð±ï¿½ï¿½ï¿½Í¼ï¿½ï¿½Ó¦ï¿½ï¿½");
+//      primaryStage.setScene(scene);
+//      primaryStage.show();
+//  }
+//
+// class IListener implements InvalidationListener{
+//      @Override
+//      public void invalidated(Observable ov){
+//          fp.getChildren().clear();
+//          System.out.println(lv.getSelectionModel().getSelectedIndices());
+//          for(Integer i:lv.getSelectionModel().getSelectedIndices()){
+//              fp.getChildren().add(iv[i]);
+//              //System.out.println(i);
+//          }
+//      }
+//  }
+//}

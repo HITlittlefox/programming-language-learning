@@ -1,3 +1,5 @@
+package com.example.demo;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
@@ -7,9 +9,9 @@ import javafx.geometry.Pos;
 import javafx.scene.control.*;
 import javafx.scene.layout.BorderPane;
 
-public class App15_3 extends Application{  
-  Button bt=new Button("ÉèÖÃ×ÖÌåÑÕÉ«");
-  TextArea ta=new TextArea("×ÖÌåÑÕÉ«");
+public class App15_3 extends Application{
+  Button bt=new Button("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É«");
+  TextArea ta=new TextArea("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É«");
   @Override
   public void start(Stage primaryStage){
       BorderPane bPane=new BorderPane();
@@ -18,7 +20,7 @@ public class App15_3 extends Application{
       bPane.setAlignment(bt,Pos.CENTER);
       bt.setOnAction(e->ta.setStyle("-fx-text-fill:purple"));
       Scene scene=new Scene(bPane,180,100);
-      primaryStage.setTitle("²Ù×÷ÊÂ¼þ");
+      primaryStage.setTitle("ï¿½ï¿½ï¿½ï¿½ï¿½Â¼ï¿½");
       primaryStage.setScene(scene);
       primaryStage.show();
   }

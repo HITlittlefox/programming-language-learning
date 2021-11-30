@@ -1,13 +1,15 @@
+package com.example.demo;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.text.Text;
 import javafx.scene.layout.Pane;
 
-public class App15_5 extends Application{  
+public class App15_5 extends Application{
   @Override
   public void start(Stage stage){
-      Text t=new Text(20,20,"ÒÆ¶¯ÎÒ");
+      Text t=new Text(20,20,"ï¿½Æ¶ï¿½ï¿½ï¿½");
       Pane pane=new Pane();
       pane.getChildren().add(t);
       t.setOnKeyPressed(e->{
@@ -33,7 +35,7 @@ public class App15_5 extends Application{
          }
       });
       Scene scene=new Scene(pane,200,100);
-      stage.setTitle("ÒÆ¶¯²Ù×÷");
+      stage.setTitle("ï¿½Æ¶ï¿½ï¿½ï¿½ï¿½ï¿½");
       stage.setScene(scene);
       stage.show();
       t.requestFocus();

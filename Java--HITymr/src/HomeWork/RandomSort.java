@@ -1,3 +1,5 @@
+package HomeWork;
+
 public class RandomSort {
     public static void main(String[] args) {
         int[] array = new int[8];
@@ -12,6 +14,7 @@ public class RandomSort {
 
         // 冒泡排序(从前往后两个数进行比较，如果前一个数大于后一个数，则与下一个数交换位置)
         for (int i = 0; i < array.length - 1; i++) {
+            //最大的会到最后面
             for (int j = 0; j < array.length - 1 - i; j++) {
                 if (array[j] > array[j + 1]) {
                     int temp = array[j];

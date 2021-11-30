@@ -1,21 +1,29 @@
 package JavaBook.chap12;
 
 //类型通配符“？”的使用方法
+//class GeneralType<T>{
 class GeneralType<T> {
+    //T obj;
     T obj;
 
+    //public void setObj(T obj){this.obj=obj;}
     public void setObj(T obj) {
         this.obj = obj;
     }
 
+    //public T getObj(){return obj;}
     public T getObj() {
         return obj;
     }
 
     //下面的方法接收的泛型类对象参数中的类型参数只能是GeneralType实例出来的String或String的子类
+    //public static void showObj(GeneralType<? extends String> o){
     public static void showObj(GeneralType<? extends String> o) {
+        //System.out.println("given value is = " + o.getObj());
         System.out.println("given value is = " + o.getObj());
+        //}
     }
+    //}
 }
 
 public class App12_5 {

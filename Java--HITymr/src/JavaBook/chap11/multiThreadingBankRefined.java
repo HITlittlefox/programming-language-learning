@@ -8,7 +8,7 @@ class Account {
     String name;
     double balance;
 
-    //构造方法
+    //单参构造方法
     public Account(String name) {
         this.name = name;
         this.balance = 0;
@@ -51,7 +51,8 @@ class SaveThread extends Thread {
 
         }
     }
-
+//synchronized
+    //synchronized
 }
 
 //取款线程

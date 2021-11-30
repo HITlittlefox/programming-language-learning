@@ -1,3 +1,5 @@
+package com.example.demo;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
@@ -5,9 +7,9 @@ import javafx.scene.input.MouseEvent;
 import javafx.scene.text.Text;
 import javafx.scene.layout.Pane;
 
-public class App15_4 extends Application{  
+public class App15_4 extends Application{
   private double tOffX,tOffY;
-  Text t=new Text(20,20,"ÍÏ¶¯ÎÒ");
+  Text t=new Text(20,20,"ï¿½Ï¶ï¿½ï¿½ï¿½");
   @Override
   public void start(Stage stage){
       Pane pane=new Pane();
@@ -15,7 +17,7 @@ public class App15_4 extends Application{
       t.setOnMousePressed(e->handleMousePressed(e));
       t.setOnMouseDragged(e->handleMouseDragged(e,stage));
       Scene scene=new Scene(pane,200,100);
-      stage.setTitle("ÍÏ¶¯²Ù×÷");
+      stage.setTitle("ï¿½Ï¶ï¿½ï¿½ï¿½ï¿½ï¿½");
       stage.setScene(scene);
       stage.show();
   }
@@ -26,6 +28,6 @@ public class App15_4 extends Application{
   protected void handleMouseDragged(MouseEvent e,Stage stage){
       t.setX(e.getSceneX()-tOffX);
       t.setY(e.getSceneY()-tOffY);
-     // stage.setTitle("Êó±êÎ»ÖÃ£º£¨"+e.getSceneX()+","+e.getSceneY()+")");
+     // stage.setTitle("ï¿½ï¿½ï¿½Î»ï¿½Ã£ï¿½ï¿½ï¿½"+e.getSceneX()+","+e.getSceneY()+")");
   }
 }

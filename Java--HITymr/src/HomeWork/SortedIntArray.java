@@ -93,9 +93,9 @@ public class SortedIntArray {
         SortedIntArray anArray = new SortedIntArray();
         anArray.insert(4).insert(9).insert(7).insert(1).insert(3).
                 insert(2).insert(8).insert(7);
-        System.out.println(anArray);
+        System.out.println("test1:" + anArray);
         anArray.remove(1).remove(8).remove(7).remove(3);
-        System.out.println(anArray);
+        System.out.println("test2:" + anArray);
     }
 
 

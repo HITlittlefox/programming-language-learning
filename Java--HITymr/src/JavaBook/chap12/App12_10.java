@@ -15,9 +15,15 @@ public class App12_10 {
         hs.add("猪八戒3");
         hs.add("沙和尚4");
         hs.add("白龙马5");
+        hs.add("白龙马6");
+        hs.add("白龙马7");
+        hs.add("白龙马8");
+        hs.add("白龙马61");
         System.out.println("哈希集合：" + hs);
         //要你自己定义排序规则，TreeSet后面写个{}，重写orderBy
-        TreeSet<String> ts = new TreeSet<>(hs);  //利用hs创建树集合对象ts
+
+        //利用hs创建树集合对象ts
+        TreeSet<String> ts = new TreeSet<>(hs);
         System.out.println("树集合：" + ts);          //输出树集合
         System.out.println("树集合的第一个元素：" + ts.first());
         System.out.println("树集合最后一个元素：" + ts.last());

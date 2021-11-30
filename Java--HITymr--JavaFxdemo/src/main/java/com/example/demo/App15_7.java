@@ -1,20 +1,22 @@
+package com.example.demo;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.layout.GridPane;
 import javafx.scene.control.*;
 
-public class App15_7 extends Application{  
+public class App15_7 extends Application{
   final PasswordField pf=new PasswordField();
   final TextField tf=new TextField();
-  final TextArea ta=new TextArea("ÎÒÏÖÔÚ²»¿É±à¼­");
+  final TextArea ta=new TextArea("ï¿½ï¿½ï¿½ï¿½ï¿½Ú²ï¿½ï¿½É±à¼­");
   @Override
   public void start(Stage stage){
       GridPane rootGP=new GridPane();
-      final Label lab1=new Label("ÓÃ»§Ãû£º");
-      final Label lab2=new Label("ÃÜ    Âë£º");
-      tf.setPromptText("ÊäÈëÓÃ»§Ãû");
-      pf.setPromptText("ÊäÈëÃÜÂë");
+      final Label lab1=new Label("ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½");
+      final Label lab2=new Label("ï¿½ï¿½    ï¿½ë£º");
+      tf.setPromptText("ï¿½ï¿½ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½");
+      pf.setPromptText("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
       rootGP.add(lab1,0,0);
       rootGP.add(tf,1,0);
       rootGP.add(lab2,0,1);
@@ -27,12 +29,12 @@ public class App15_7 extends Application{
             ta.setEditable(true);
             ta.setWrapText(true);
             ta.setStyle("-fx-text-fill:red");
-            ta.setText("¹§Ï²Äã£¡£¡\n¹þ¹þ£¬¿ÉÒÔ±à¼­ÎÒÁË");
+            ta.setText("ï¿½ï¿½Ï²ï¿½ã£¡ï¿½ï¿½\nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô±à¼­ï¿½ï¿½ï¿½ï¿½");
          }
       });
       rootGP.add(scro,0,3,4,3);
       Scene scene=new Scene(rootGP,190,120);
-      stage.setTitle("ÎÄ±¾¿Ø¼þÓ¦ÓÃ");
+      stage.setTitle("ï¿½Ä±ï¿½ï¿½Ø¼ï¿½Ó¦ï¿½ï¿½");
       stage.setScene(scene);
       stage.show();
   }

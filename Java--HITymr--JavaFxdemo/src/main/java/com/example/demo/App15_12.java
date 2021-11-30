@@ -1,3 +1,5 @@
+package com.example.demo;
+
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.stage.Stage;
@@ -12,30 +14,30 @@ import javafx.scene.paint.Color;
 import javafx.scene.input.KeyCombination;
 import javafx.scene.layout.*;
 
-public class App15_12 extends Application{  
+public class App15_12 extends Application{
   @Override
   public void start(Stage stage){
       MenuBar menuB=new MenuBar();
-      Text t=new Text("ÎÒÊÇÒ»¸ö³ÌÐòÔ±£¬\nÎÒÏ²»¶ÓÃJavaFX±à³Ì");
+      Text t=new Text("ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô±ï¿½ï¿½\nï¿½ï¿½Ï²ï¿½ï¿½ï¿½ï¿½JavaFXï¿½ï¿½ï¿½");
       BorderPane rootBP=new BorderPane();
       rootBP.setTop(menuB);
       rootBP.setCenter(t);
-      Menu fileM=new Menu("(_F)ÎÄ¼þ");
+      Menu fileM=new Menu("(_F)ï¿½Ä¼ï¿½");
       fileM.setMnemonicParsing(true);
       Image inew=new Image("images/new.png");
       ImageView ivnew=new ImageView(inew);
-      MenuItem newMI=new MenuItem("ÐÂ½¨",ivnew);
-      MenuItem openMI=new MenuItem("´ò¿ª");     
+      MenuItem newMI=new MenuItem("ï¿½Â½ï¿½",ivnew);
+      MenuItem openMI=new MenuItem("ï¿½ï¿½");
       openMI.setAccelerator(KeyCombination.keyCombination("Ctrl+O"));
       openMI.setGraphic(new ImageView(new Image("images/open.png")));
-      MenuItem saveMI=new MenuItem("±£´æ");
-      MenuItem exitMI=new MenuItem("ÍË³ö");
+      MenuItem saveMI=new MenuItem("ï¿½ï¿½ï¿½ï¿½");
+      MenuItem exitMI=new MenuItem("ï¿½Ë³ï¿½");
       exitMI.setAccelerator(KeyCombination.keyCombination("Ctrl+X"));
       EventHandler<ActionEvent> MEHandler=new EventHandler<ActionEvent>(){
          public void handle(ActionEvent ae){
              String name=((MenuItem)ae.getTarget()).getText();
-             if(name.equals("ÍË³ö")) Platform.exit();
-             t.setText(name+"£º±»Ñ¡ÖÐ");
+             if(name.equals("ï¿½Ë³ï¿½")) Platform.exit();
+             t.setText(name+"ï¿½ï¿½ï¿½ï¿½Ñ¡ï¿½ï¿½");
          }
       };
       exitMI.setOnAction(MEHandler);
@@ -44,20 +46,20 @@ public class App15_12 extends Application{
       openMI.setOnAction(MEHandler);
       fileM.getItems().addAll(newMI,openMI,saveMI,exitMI);
 
-      Menu styleM=new Menu("¸ñÊ½");
-      Menu fontM=new Menu("×ÖÌå");
-      CheckMenuItem boldMI=new CheckMenuItem("´ÖÌå");
+      Menu styleM=new Menu("ï¿½ï¿½Ê½");
+      Menu fontM=new Menu("ï¿½ï¿½ï¿½ï¿½");
+      CheckMenuItem boldMI=new CheckMenuItem("ï¿½ï¿½ï¿½ï¿½");
       boldMI.setGraphic(new ImageView(new Image("images/bold.png")));
       boldMI.setSelected(true);
-      CheckMenuItem italicMI=new CheckMenuItem("Ð±Ìå");
-      italicMI.setGraphic(new ImageView(new Image("images/italic.png")));   
+      CheckMenuItem italicMI=new CheckMenuItem("Ð±ï¿½ï¿½");
+      italicMI.setGraphic(new ImageView(new Image("images/italic.png")));
       boldMI.setOnAction(e->t.setFill(Color.RED));
 
       fontM.getItems().addAll(boldMI,italicMI);
-      Menu rgbM=new Menu("ÑÕÉ«");
-      RadioMenuItem rMI=new RadioMenuItem("ºìÉ«");
-      RadioMenuItem gMI=new RadioMenuItem("ÂÌÉ«");
-      RadioMenuItem bMI=new RadioMenuItem("À¶É«");
+      Menu rgbM=new Menu("ï¿½ï¿½É«");
+      RadioMenuItem rMI=new RadioMenuItem("ï¿½ï¿½É«");
+      RadioMenuItem gMI=new RadioMenuItem("ï¿½ï¿½É«");
+      RadioMenuItem bMI=new RadioMenuItem("ï¿½ï¿½É«");
       rMI.setOnAction(e->t.setFill(Color.RED));
       gMI.setOnAction(e->t.setFill(Color.GREEN));
       bMI.setOnAction(e->t.setFill(Color.BLUE));
@@ -72,7 +74,7 @@ public class App15_12 extends Application{
       menuB.getMenus().addAll(fileM,styleM);
 
       Scene scene=new Scene(rootBP,230,100);
-      stage.setTitle("²Ëµ¥Ó¦ÓÃ³ÌÐò");
+      stage.setTitle("ï¿½Ëµï¿½Ó¦ï¿½Ã³ï¿½ï¿½ï¿½");
       stage.setScene(scene);
       stage.show();
   }

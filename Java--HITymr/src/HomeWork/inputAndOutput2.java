@@ -22,11 +22,10 @@ public class inputAndOutput2 {
         System.out.println("产生15个20~9999的随机整数：" + Arrays.toString(a));
 
         //写入文本文件
-        String fileName = "C:\\Users\\96361\\Desktop\\programming-language-learning2\\Java--HITymr\\123.dat";
+        String fileName = "C:\\Users\\96361\\Desktop\\programming-language-learning\\Java--HITymr\\123.dat";
         DataOutputStream out = new DataOutputStream(new FileOutputStream(fileName));
 
         //逐行输入
-
         for (int i : a) {
             System.out.println(i);
             out.write(i);

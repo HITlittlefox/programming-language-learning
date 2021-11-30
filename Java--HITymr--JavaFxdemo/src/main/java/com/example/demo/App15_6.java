@@ -1,3 +1,5 @@
+package com.example.demo;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
@@ -8,20 +10,20 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.*;
 import javafx.event.*;
 
-public class App15_6 extends Application{  
+public class App15_6 extends Application{
   Font fN=Font.font("Times New Roman",FontWeight.NORMAL,FontPosture.REGULAR,16);
   Font fB=Font.font("Times New Roman",FontWeight.BOLD,FontPosture.REGULAR,16);
   Font fI=Font.font("Times New Roman",FontWeight.NORMAL,FontPosture.ITALIC,16);
   Font fBI=Font.font("Times New Roman",FontWeight.BOLD,FontPosture.ITALIC,16);
-  CheckBox chkB=new CheckBox("´ÖÌå");
-  CheckBox chkI=new CheckBox("Ð±Ìå");
-  RadioButton r=new RadioButton("ºìÉ«");
-  RadioButton g=new RadioButton("ÂÌÉ«");
-  RadioButton b=new RadioButton("À¶É«");
-  Text t=new Text("ÎÒÏ²»¶JavaFX±à³Ì");
-//Text t=new Text("dfssffJÎÒavaFXdsfdsf");
+  CheckBox chkB=new CheckBox("ï¿½ï¿½ï¿½ï¿½");
+  CheckBox chkI=new CheckBox("Ð±ï¿½ï¿½");
+  RadioButton r=new RadioButton("ï¿½ï¿½É«");
+  RadioButton g=new RadioButton("ï¿½ï¿½É«");
+  RadioButton b=new RadioButton("ï¿½ï¿½É«");
+  Text t=new Text("ï¿½ï¿½Ï²ï¿½ï¿½JavaFXï¿½ï¿½ï¿½");
+//Text t=new Text("dfssffJï¿½ï¿½avaFXdsfdsf");
   @Override
-  public void start(Stage primaryStage){ 
+  public void start(Stage primaryStage){
       VBox vbL=new VBox(20);
       vbL.setStyle("-fx-border-color:green");
       vbL.getChildren().addAll(chkB,chkI);
@@ -44,7 +46,7 @@ public class App15_6 extends Application{
       chkB.setOnAction(han);
       chkI.setOnAction(han);
       Scene scene=new Scene(rootBP,260,60);
-      primaryStage.setTitle("¸´Ñ¡¿òÓëµ¥Ñ¡°´Å¥");
+      primaryStage.setTitle("ï¿½ï¿½Ñ¡ï¿½ï¿½ï¿½ëµ¥Ñ¡ï¿½ï¿½Å¥");
       primaryStage.setScene(scene);
       primaryStage.show();
   }

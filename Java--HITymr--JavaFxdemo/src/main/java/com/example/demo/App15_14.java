@@ -1,39 +1,39 @@
-import javafx.application.Application;
-import javafx.stage.Stage;
-import javafx.scene.Scene;
-import javafx.scene.control.*;
-import javafx.scene.image.ImageView;
-import javafx.scene.layout.*;
-
-public class App15_14 extends Application{  
-  private Button but1=new Button("´ò¿ª",new ImageView("images/open.png"));
-  private Button but2=new Button("±£´æ",new ImageView("images/save.png"));
-  private Button but3=new Button("°ïÖú",new ImageView("images/help.png"));
-  private TextArea ta=new TextArea("ÎÒÏÖÔÚÊÇ½ûÓÃ×´Ì¬");
-  @Override
-  public void start(Stage stage){
-      ta.setEditable(false);
-      but1.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
-      but2.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
-      but3.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
-     /* Tooltip.install(but1,new Tooltip("´ò¿ª"));
-      Tooltip.install(but2,new Tooltip("±£´æ"));
-      Tooltip.install(but3,new Tooltip("´ò¿ª"));*/
-      but1.setTooltip(new Tooltip("°ïÖú"));
-      but2.setTooltip(new Tooltip("±£´æ"));
-      but3.setTooltip(new Tooltip("°ïÖú"));
-      but1.setOnAction(e->{
-         ta.setEditable(true);
-         ta.setText("¹§Ï²Äã£¡\n¹þ¹þ£¬ÏÖÔÚ¿ÉÒÔ±à¼­ÎÒÁË");
-         ta.setStyle("-fx-text-fill:red");
-      });
-      ToolBar tB=new ToolBar(but1,but2,but3);
-      BorderPane rootBP=new BorderPane();
-      rootBP.setCenter(ta);
-      rootBP.setTop(tB);
-      Scene scene=new Scene(rootBP,230,100);
-      stage.setTitle("¹¤¾ßÀ¸Ó¦ÓÃ³ÌÐò");
-      stage.setScene(scene);
-      stage.show();
-  }
-}
+//import javafx.application.Application;
+//import javafx.stage.Stage;
+//import javafx.scene.Scene;
+//import javafx.scene.control.*;
+//import javafx.scene.image.ImageView;
+//import javafx.scene.layout.*;
+//
+//public class App15_14 extends Application{
+//  private Button but1=new Button("ï¿½ï¿½",new ImageView("images/open.png"));
+//  private Button but2=new Button("ï¿½ï¿½ï¿½ï¿½",new ImageView("images/save.png"));
+//  private Button but3=new Button("ï¿½ï¿½ï¿½ï¿½",new ImageView("images/help.png"));
+//  private TextArea ta=new TextArea("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç½ï¿½ï¿½ï¿½×´Ì¬");
+//  @Override
+//  public void start(Stage stage){
+//      ta.setEditable(false);
+//      but1.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
+//      but2.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
+//      but3.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
+//     /* Tooltip.install(but1,new Tooltip("ï¿½ï¿½"));
+//      Tooltip.install(but2,new Tooltip("ï¿½ï¿½ï¿½ï¿½"));
+//      Tooltip.install(but3,new Tooltip("ï¿½ï¿½"));*/
+//      but1.setTooltip(new Tooltip("ï¿½ï¿½ï¿½ï¿½"));
+//      but2.setTooltip(new Tooltip("ï¿½ï¿½ï¿½ï¿½"));
+//      but3.setTooltip(new Tooltip("ï¿½ï¿½ï¿½ï¿½"));
+//      but1.setOnAction(e->{
+//         ta.setEditable(true);
+//         ta.setText("ï¿½ï¿½Ï²ï¿½ã£¡\nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½Ô±à¼­ï¿½ï¿½ï¿½ï¿½");
+//         ta.setStyle("-fx-text-fill:red");
+//      });
+//      ToolBar tB=new ToolBar(but1,but2,but3);
+//      BorderPane rootBP=new BorderPane();
+//      rootBP.setCenter(ta);
+//      rootBP.setTop(tB);
+//      Scene scene=new Scene(rootBP,230,100);
+//      stage.setTitle("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½Ã³ï¿½ï¿½ï¿½");
+//      stage.setScene(scene);
+//      stage.show();
+//  }
+//}
