@@ -1,30 +1,30 @@
 package HomeWorkDS;
 
 public class LinStack implements Stack {
-	Node head;										//��ջͷ
-	int size;										//������
+	Node head;										//????
+	int size;										//??????
 
-	public void LinStack(){							//���캯��
+	public void LinStack(){							//??????
 		head = null;
 		size = 0;
 	}
 
-	public void push(Object obj){					//��ջ
-		head = new Node(obj, head);					//�½����Ϊ��ջ��
+	public void push(Object obj){					//???
+		head = new Node(obj, head);					//????????????
 		size ++;
 	}
 
-	public Object pop() throws Exception{			//��ջ
+	public Object pop() throws Exception{			//???
 		if(size == 0){
-			throw new Exception("��ջ�ѿգ�");
+			throw new Exception("???????");
 		}
-		Object obj = head.data;					//ԭջ������Ԫ��
-		head = head.next;							//ԭջ���������
+		Object obj = head.data;					//???????????
+		head = head.next;							//???????????
 		size --;
 		return obj;
 	}
 
-	public boolean notEmpty(){						//�ǿշ�
+	public boolean notEmpty(){						//????
 		return head != null;
 	}
 

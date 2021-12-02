@@ -7,7 +7,7 @@ public class Exec314{
 		PQueueNode x=new PQueueNode(0,0);
 		boolean notempty=true;
 		
-		System.out.println("��ʼ��������ȼ�ɾ��");
+		System.out.println("????????????????");
 		while(notempty){
 			notempty=s.SPQDelete(x);
 			if(notempty)
@@ -38,7 +38,7 @@ class SeqPQueue{
 		PQueueNode min=list[0];
 		int minIndex=0;
 		if(size<=0){
-			System.out.println("�����ѿգ���Ԫ�ؿ�ɾ��");
+			System.out.println("?????????????????");
 			return false;
 		}
 		for(int i=0;i<size;i++){

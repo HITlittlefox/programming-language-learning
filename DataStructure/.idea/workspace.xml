@@ -5,243 +5,112 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9994209-41f3-4b7d-b3cf-cb958530fe0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java--HITymr/src/HomeWorkDS/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataStructure.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/Java--HITymr--JavaFxdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/Java--HITymr--JavaFxdemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/com/example/demo/App15_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/App14_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/HelloApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/HelloApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/simpleEditor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/simpleEditor$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/simpleEditor$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/simpleEditor$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/simpleEditor$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/simpleEditor$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/simpleEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/com/example/demo/simpleEditor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr--JavaFxdemo/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/LinQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/LinQueueTestHuiWen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/SeqQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/SeqQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/SeqStackLinStack/LinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/SeqStackLinStack/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/SeqStackLinStack/SeqStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/SeqStackLinStack/SeqStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/SeqStackLinStack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Exec214.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/SeqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/SeqList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/JesephRing/JesephRing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/JesephRing/JesephRing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/Josephus/NoHeadOneWayLoopList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/Josephus/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/Josephus/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/Josephus/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/Josephus/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/SeqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/SeqList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/SeqListTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/SeqListTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/Exam2_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/Exam2_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/LinList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/LinList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/SeqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/SeqList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/SeqListTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/SeqListTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw216/Hw216.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw216/Hw216.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw216/SeqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw216/SeqList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw223/DoubleLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw223/DoubleLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw223/Hw223.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw223/Hw223.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/Hw314/Exec314.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/Hw314/Exec314.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/Hw314/SeqPQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/Hw314/SeqPQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/SeqPQueue/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/SeqPQueue/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/SeqPQueue/Exam3_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/SeqPQueue/Exam3_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/SeqPQueue/SeqPQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/SeqPQueue/SeqPQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/queue/Exam3_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/queue/LinQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/queue/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/queue/SeqQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/queue/SeqQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/queue/SeqStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/queue/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/stack/Exam3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/stack/LinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/stack/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/stack/PostExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/stack/SeqQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/stack/SeqStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/stack/SeqStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap5/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap5/DynamicArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap5/Exam5_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap5/Exam5_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap5/SeqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap5/SeqList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap5/SeqSpaMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap5/SeqSpaMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap5/SeqSynmeMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap5/SeqSynmeMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap5/SpaMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap5/SpaMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap5/TestSpaMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap5/TestSpaMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exam6_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exam6_1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exam6_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exam6_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exam6_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exam6_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exam6_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exam6_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exer6_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Exer6_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Fib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/InterSection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Maze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/Maze1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/SeqStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chapter6/SimTowers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap1/reverse1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/reverse1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/exec2/2-14/Exec214.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/exec2/2-14/Exec214.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/Hw314/Exec314.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/Hw314/Exec314.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/SeqPQueue/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/SeqPQueue/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/SeqPQueue/Exam3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/SeqPQueue/Exam3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/SeqPQueue/SeqPQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/SeqPQueue/SeqPQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/nodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/nodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/queue/Exam3_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/queue/LinQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/queue/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/queue/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/queue/SeqQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/queue/SeqQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/queue/SeqStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/queue/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/stack/Exam3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/SeqStackLinStack/Exam3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/stack/LinStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/stack/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/stack/PostExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/SeqStackLinStack/PostExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/stack/SeqQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/SeqStackLinStack/SeqQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/stack/SeqStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/SeqStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/stack/SeqStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/stack/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ESetNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ESetNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java--HITymr/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java--HITymr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/123.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/123.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/Java--HITymr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/Java--HITymr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Coffeine/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Coffeine/Coffee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Conver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Conver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/CopyingArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/CopyingArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Fan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Fan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Arithmetic2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Arithmetic2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Bank/AccountTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Bank/AccountTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Bank/AccountTester2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Bank/AccountTester2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Bank/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Bank/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Bank/BankAccount2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Bank/BankAccount2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/FetchThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/FetchThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Mobilephone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Mobilephone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/MovieStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/MovieStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/MovieStoreTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/MovieStoreTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/NumComplete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/NumComplete.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/SaveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/SaveThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/ScoreSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/ScoreSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/SortedIntArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/SortedIntArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/StudentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/StudentClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Telephone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/Telephone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/TelephoneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/TelephoneTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/inputAndOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/inputAndOutput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/inputAndOutput2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/inputAndOutput2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/multiThreadingBankRefined.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/multiThreadingBankRefined.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/studentInfo$Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/studentInfo$Keyboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/studentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWork/studentInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/InitVar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/InitVar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/InputNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/InputNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/App10_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/CopyMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/CopyMaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Ex10_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Redirecting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/Redirecting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/TestThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/ex7_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap10/ex7_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/App11_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Balls.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Balls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/FetchThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/FetchThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Mbank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Mbank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/MyThread0.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/MyThread0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/MyThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/MyThread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Player0.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Player0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Player1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Player1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Player2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Player2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/SaveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/SaveThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Test50000.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Test50000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/TestThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/ThreadSale.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/ThreadSale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/ThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Tickets.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/Tickets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/_50000.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/_50000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/multiThreadingBankRefined.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap11/multiThreadingBankRefined.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/App12_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/GenMet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/GenMet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/GeneralType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/GeneralType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/GeneralType1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/GeneralType1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/IteratorTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/IteratorTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/MovieStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/MovieStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/MovieStoreTester1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/MovieStoreTester1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/StringStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/StringStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/VectorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap12/VectorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/App13_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/App13_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/App13_5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/App13_5$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/App13_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/App13_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/IShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/IShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/MyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap13/MyType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/App1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/App1_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/App2_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/App2_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/OuterClass$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/OuterClass$InnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/OuterClass$StaticInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/OuterClass$StaticInnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/OuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap2/OuterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/App3_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/Exe3_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap3/Exe3_18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap4/App4_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap5/App5_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap6/App6_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap6/App6_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap6/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap6/Cylinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/ExecDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/ExecDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/Keyboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/StudentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/StudentClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/Tester1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/Tester1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/Tester2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap8/Tester2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/App9_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/CircleException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/CircleException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/SomeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/JavaBook/chap9/SomeException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/RandomSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/TestThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/Tickets.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/Tickets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/ex7_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/ex7_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/ex7_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/ex7_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/test$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/multiThreading/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Person2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Person4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Person4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/StringEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/StringEditor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/TestDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/inheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/polymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/polymorphism.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test/test9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/HomeWork/RandomSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/HomeWork/RandomSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/HomeWork/SortedIntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/HomeWork/SortedIntArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/HomeWork/inputAndOutput2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/HomeWork/inputAndOutput2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap11/multiThreadingBankRefined.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap11/multiThreadingBankRefined.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/App12_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/IteratorTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/JavaBook/chap12/IteratorTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWorkDS/LinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWorkDS/LinStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java--HITymr/out/production/Java--HITymr/HomeWorkDS/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/HomeWorkDS/LinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/HomeWorkDS/LinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java--HITymr/src/HomeWorkDS/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java--HITymr/src/HomeWorkDS/PostExpressionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,13 +127,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="20rdq4LGjRM8iWnXJzpCxjpOwG5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -275,14 +151,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chap3/LinStack" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.TestClass">
-    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap3.Node" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\96361\Desktop\programming-language-learning\DataStructure\src\chap3\LinStack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.radixSort">
+    <configuration name="LinQueueTestHuiWen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap3.LinQueueSeqQueue.LinQueueTestHuiWen" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap3.LinQueueSeqQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostExpressionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap3.PostExpressionTest" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -294,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap2.Josephus.TestClass" />
+    <configuration name="SeqQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap3.LinQueueSeqQueue.SeqQueueTest" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap2.Josephus.*" />
+          <option name="PATTERN" value="chap3.LinQueueSeqQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,8 +202,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap3.nodeTest" />
+    <configuration name="SeqStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap3.SeqStackLinStack.SeqStackTest" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap3.SeqStackLinStack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="radixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap3.radixSort" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -322,9 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.Node" />
-        <item itemvalue="Application.nodeTest" />
+        <item itemvalue="Application.radixSort" />
+        <item itemvalue="Application.LinQueueTestHuiWen" />
+        <item itemvalue="Application.SeqQueueTest" />
+        <item itemvalue="Application.PostExpressionTest" />
+        <item itemvalue="Application.SeqStackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -339,6 +249,8 @@
       <workItem from="1636806833646" duration="1657000" />
       <workItem from="1636881262213" duration="8000" />
       <workItem from="1637377183967" duration="3403000" />
+      <workItem from="1638413333364" duration="3631000" />
+      <workItem from="1638429329593" duration="4528000" />
     </task>
     <servers />
   </component>
