@@ -43,7 +43,7 @@ public class radixSort {
 
     public static void main(String[] args) throws Exception {
         int[] a = new int[]{710, 342, 45, 686, 6, 841, 429, 134, 68, 264};
-
+//        int[] a = new int[]{138, 178, 138, 178, 178, 178, 133, 178, 137, 133};
         for (int i : radixSort(a, 3, 10)) {
             System.out.println(i);
         }

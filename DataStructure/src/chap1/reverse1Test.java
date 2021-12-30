@@ -1,12 +1,12 @@
 package chap1;
 
-// �?1-1:设计一个把存储在数组a中的一组整数类型数据元素逆置后保存在数组b中的算法�?
-// 所谓逆置是指数据元素排列次序相反�?
+// ??1-1:���??���Ѵ洢������a�е�??��������������Ԫ��???�ú󱣴�������b�е��㷨??
+// ??ν???����ָ����Ԫ�����д����෴??
 public class reverse1Test {
     static void reverse1(int[] a, int[] b) {
         int n = a.length;
         for (int i = 0; i < n; i++)
-            b[i] = a[n - 1 - i]; // 把数组a的元素逆置后赋给数组b
+            b[i] = a[n - 1 - i]; // ������a��Ԫ��???�ú󸳸�����b
 
         for (int j = 0; j < a.length; j++) {
             System.out.print(a[j] + " ");

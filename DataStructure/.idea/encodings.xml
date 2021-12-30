@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/HanShunPing/BinaryTreeDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chap1/reverse1Test.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/chap2/JesephRing/JesephRing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap2/Josephus2/JosephusLoopUpper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chap2/List_SeqList/SeqList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap2/SingleList/LinList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chap2/SingleList/Node.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chap2/SingleList/SeqList.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/LinQueue.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/LinQueueTestHuiWen.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/chap3/LinQueueSeqQueue/SeqQueue.java" charset="GBK" />
@@ -16,6 +23,9 @@
     <file url="file://$PROJECT_DIR$/src/chap3/SeqStackLinStack/LinStack.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/chap3/SeqStackLinStack/SeqStack.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/chap3/SeqStackLinStack/SeqStackTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chap6/Hw615/NQueen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chap6/Hw615/NQueenTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/chap7/ESetNode.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

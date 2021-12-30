@@ -2,31 +2,31 @@ package chap2.Josephus2;
 
 import chap2.Josephus2.JosephusArrayList;
 /*
- * ç¼–å·ä¸º1~Nçš„Nä¸ªäººæŒ‰é¡ºæ—¶é’ˆæ–¹å‘å›´åä¸€åœˆï¼Œæ¯ä¸ªäººæŒæœ‰ä¸€ä¸ªå¯†ç ï¼ˆæ­£æ•´æ•°ï¼Œå¯ä»¥è‡ªç”±è¾“å…¥ï¼‰ï¼Œ
- * å¼€å§‹äººé€‰ä¸€ä¸ªæ­£æ•´æ•°åšä¸ºæŠ¥æ•°ä¸Šé™å€¼Mï¼Œä»ç¬¬ä¸€ä¸ªäººæŒ‰é¡ºæ—¶é’ˆæ–¹å‘è‡ª1å¼€å§‹é¡ºåºæŠ¥æ•°ï¼ŒæŠ¥åˆ°Mæ—¶
- * åœæ­¢æŠ¥æ•°ã€‚æŠ¥Mçš„äººå‡ºåˆ—ï¼Œå°†ä»–çš„å¯†ç ä½œä¸ºæ–°çš„Må€¼ï¼Œä»ä»–é¡ºæ—¶é’ˆæ–¹å‘ä¸Šçš„ä¸‹ä¸€ä¸ªäººå¼€å§‹ä»1
- * æŠ¥æ•°ï¼Œå¦‚æ­¤ä¸‹å»ï¼Œç›´åˆ°æ‰€æœ‰äººå‡ºåˆ—ä¸ºæ­¢ã€‚
+ * ±àºÅÎª1~NµÄN¸öÈË°´Ë³Ê±Õë·½ÏòÎ§×øÒ»È¦£¬Ã¿¸öÈË³ÖÓĞÒ»¸öÃÜÂë£¨ÕıÕûÊı£¬¿ÉÒÔ×ÔÓÉÊäÈë£©£¬
+ * ¿ªÊ¼ÈËÑ¡Ò»¸öÕıÕûÊı×öÎª±¨ÊıÉÏÏŞÖµM£¬´ÓµÚÒ»¸öÈË°´Ë³Ê±Õë·½Ïò×Ô1¿ªÊ¼Ë³Ğò±¨Êı£¬±¨µ½MÊ±
+ * Í£Ö¹±¨Êı¡£±¨MµÄÈË³öÁĞ£¬½«ËûµÄÃÜÂë×÷ÎªĞÂµÄMÖµ£¬´ÓËûË³Ê±Õë·½ÏòÉÏµÄÏÂÒ»¸öÈË¿ªÊ¼´Ó1
+ * ±¨Êı£¬Èç´ËÏÂÈ¥£¬Ö±µ½ËùÓĞÈË³öÁĞÎªÖ¹¡£
  * */
 
 public class JosephusLoopUpper {
-    private Node head;// å¤´ç»“ç‚¹
-    private Node rear;// å°¾èŠ‚ç‚¹
-    private int size;// æ•°ç»„å¤§å°
-    private int M;// ä¼ å…¥çš„ç¬¬ä¸€ä¸ªå¯†ç 
+    private Node head;// Í·½áµã
+    private Node rear;// Î²½Úµã
+    private int size;// Êı×é´óĞ¡
+    private int M;// ´«ÈëµÄµÚÒ»¸öÃÜÂë
 
     public JosephusLoopUpper(JosephusArrayList<Integer> list, int M) {
         head = new Node(list.get(0), 0, null);
         rear = head;
-        rear.next = head;// å°¾èŠ‚ç‚¹è¿æ¥çš„å¤´ç»“ç‚¹ï¼Œå½¢æˆå¾ªç¯é“¾è¡¨
-        for (int i = 1; i < list.getSize(); i++) {// éå†æ‰€æœ‰äºº
+        rear.next = head;// Î²½ÚµãÁ¬½ÓµÄÍ·½áµã£¬ĞÎ³ÉÑ­»·Á´±í
+        for (int i = 1; i < list.getSize(); i++) {// ±éÀúËùÓĞÈË
             rear.next = new Node(list.get(i), i, rear.next);
-            rear = rear.next;// æ·»åŠ äººè¿›é“¾è¡¨
+            rear = rear.next;// Ìí¼ÓÈË½øÁ´±í
         }
         size = list.getSize();
         this.M = M;
     }
 
-    public void out() {// åˆ é™¤äºº
+    public void out() {// É¾³ıÈË
         Node p = head;
         while (size > 0) {
             for (int i = 1; i <= M - 2; i++) {
@@ -44,18 +44,18 @@ public class JosephusLoopUpper {
     }
 
     private static class Node {
-        int password;// å¯†ç 
-        int position;// ä½ç½®
-        Node next;// è¦åˆ é™¤çš„èŠ‚ç‚¹
+        int password;// ÃÜÂë
+        int position;// Î»ÖÃ
+        Node next;// ÒªÉ¾³ıµÄ½Úµã
 
         public Node() {
         }
 
         public Node(int password, int position, Node next) {
             this.password = password;
-            this.next = next;// é“¾è¡¨çš„ä¸‹ä¸€ä¸ªèŠ‚ç‚¹
+            this.next = next;// Á´±íµÄÏÂÒ»¸ö½Úµã
             this.position = position;
-            System.out.println("nodePosition" + position + ";nodeå†…password" + password);
+            System.out.println("nodePosition" + position + ";nodeÄÚpassword" + password);
         }
     }
 
@@ -63,7 +63,7 @@ public class JosephusLoopUpper {
         // 3 1 7 2 4 8 4
         JosephusArrayList<Integer> list = new JosephusArrayList<>();
         list.addLast(3);
-        // ä¸‹ä¸€è¡Œadd0.1.2ï¼Œéƒ½ä¼šäº§ç”Ÿä¸€ä¸ªåˆ é™¤é¡ºåº
+        // ÏÂÒ»ĞĞadd0.1.2£¬¶¼»á²úÉúÒ»¸öÉ¾³ıË³Ğò
         // 1354620
         list.addLast(2);
         list.addLast(7);

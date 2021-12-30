@@ -10,7 +10,7 @@ public class BiTreeNode {
 		rightChild = null;
 	}
 
-	BiTreeNode(Object item, BiTreeNode left, BiTreeNode right) {
+	public BiTreeNode(Object item, BiTreeNode left, BiTreeNode right) {
 		data = item;
 		leftChild = left;
 		rightChild = right;

@@ -1,5 +1,6 @@
 package chap2.SingleList;
 
+//Ë³Ðò±í
 public class SeqList implements List {
 	final int defaultSize = 10;
 

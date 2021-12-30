@@ -47,17 +47,19 @@ public class Hw216 {
 
     }
 
+    //把顺序表A中的数据元素序列逆置后存储到顺序表B
     public static SeqList reversedOrder(SeqList seqList) throws Exception {
         for (int i = 0; i < (seqList.size() + 1) / 2; i++) {
-
+            //拿出来最前面的
             int t = (int) seqList.getData(i);
-            // System.out.println();
-            // System.out.print(t);
-            // System.out.println(t);
+            //删除最前面的
             seqList.delete(i);
+            //把后面的塞到前面
             seqList.insert(i, seqList.getData(seqList.size() - 1 - i));
             // seqList(i) = seqList[seqList.size() - 1 - i];
+            //删除后面的
             seqList.delete(seqList.size() - 1 - i);
+            //把前面的塞到后面
             seqList.insert(seqList.size() - i, t);
 
         }
