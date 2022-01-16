@@ -5,71 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9994209-41f3-4b7d-b3cf-cb958530fe0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap6/Hw615/NQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/Hw615/NQueenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/Hw/HaffNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/Hw/HaffmanTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/Hw/HwP173.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/Josephus2/JosephusLoopUpper$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/Josephus2/JosephusLoopUpper$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/SeqList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/SeqListTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/SeqListTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SeqList/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/LinList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/LinList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/SeqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/SingleList/SeqList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/exec2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/LinQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/LinQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/radixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap3/radixSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/~$ Microsoft Word 文档.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/~WRL0005.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap3/新建 Microsoft Word 文档.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap6/Exam6_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap6/nqueen/NQueen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap6/nqueen/NQueentest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap7/BiTrInIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap7/BiTrInIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap7/BiTreeInterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap7/BiTreeInterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap7/BiTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap7/BiTreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap7/Code.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap7/Code.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap7/Exam7_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap7/HaffNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap7/HaffmanTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap7/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap7/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap1/reverse1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/reverse1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/Josephus2/JosephusLoopUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/Josephus2/JosephusLoopUpper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/SeqList/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/List_SeqList/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/SeqList/SeqList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/List_SeqList/SeqList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/SeqList/SeqListTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/List_SeqList/SeqListTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/SeqList/SeqListTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/List_SeqList/SeqListTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/SingleList/LinList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/SingleList/LinList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/SingleList/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/SingleList/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/SingleList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/SingleList/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/SingleList/SeqList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/SingleList/SeqList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/exec2/2-14/Exec214.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/exec2/hw214/Exec214.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/exec2/2-15/Exec215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/exec2/hw215/Exec215.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/exec2/2-17/Exec217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/exec2/hw217/Exec217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/exec2/exec2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/exec2/hw216/Hw216.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/exec2/hw216/Hw216.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/exec2/hw218/Hw218.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/exec2/hw218/Hw218.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/exec2/hw219/Hw219.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/exec2/hw219/Hw219.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/radixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/radixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/Exam6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/Exam6_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/Exam6_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/Exam6_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/nqueen/NQueen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/nqueen/NQueentest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap7/BiTrInIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/BiTrInIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap7/BiTreeInterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/BiTreeInterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap7/BiTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/BiTreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap7/Code.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap7/Exam7_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap7/HaffNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap7/HaffmanTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap7/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Exec215.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Exec217.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/SeqList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw216/Hw216.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw216/Hw216.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw216/SeqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw216/SeqList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw218/Hw218.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw218/Hw218.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw218/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw218/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw219/Hw219.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw219/Hw219.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw219/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/chap2/exec2/hw219/Node.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +87,7 @@
       <recent name="C:\Users\96361\Desktop\programming-language-learning\DataStructure\src\chap6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\96361\Desktop\programming-language-learning\DataStructure\src\chap8" />
       <recent name="C:\Users\96361\Desktop\programming-language-learning\DataStructure\src\chap10" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -149,13 +96,13 @@
       <recent name="HanShunPing.threadedbinarytree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hw922SpeedTest">
-    <configuration name="Hw109Hw1010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap10.Hw109Hw1010" />
+  <component name="RunManager">
+    <configuration name="hw8_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap8.hw8_10" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap10.*" />
+          <option name="PATTERN" value="chap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw922SpeedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap9.Hw922SpeedTest" />
+    <configuration name="hw8_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap8.hw8_14" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap9.*" />
+          <option name="PATTERN" value="chap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JosephusLoopUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap2.Josephus2.JosephusLoopUpper" />
+    <configuration name="hw8_14Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap8.hw8_14Kruskal" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap2.Josephus2.*" />
+          <option name="PATTERN" value="chap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P75InOrderNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap7.Hw.P75InOrderNoRecur" />
+    <configuration name="hw8_14Kruskal_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap8.hw8_14Kruskal_1" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap7.Hw.*" />
+          <option name="PATTERN" value="chap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P77BiTrInIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap7.Hw.P77BiTrInIteratorTest" />
+    <configuration name="hw8_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap8.hw8_9" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap7.Hw.*" />
+          <option name="PATTERN" value="chap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hw922SpeedTest" />
-        <item itemvalue="Application.Hw109Hw1010" />
-        <item itemvalue="Application.JosephusLoopUpper" />
-        <item itemvalue="Application.P77BiTrInIteratorTest" />
-        <item itemvalue="Application.P75InOrderNoRecur" />
+        <item itemvalue="Application.hw8_14Kruskal" />
+        <item itemvalue="Application.hw8_14" />
+        <item itemvalue="Application.hw8_14Kruskal_1" />
+        <item itemvalue="Application.hw8_9" />
+        <item itemvalue="Application.hw8_10" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +236,13 @@
       <workItem from="1639756522064" duration="637000" />
       <workItem from="1639793337023" duration="1639000" />
       <workItem from="1640692006035" duration="1495000" />
+      <workItem from="1640882587529" duration="2931000" />
+      <workItem from="1640886181991" duration="1239000" />
+      <workItem from="1640913488041" duration="325000" />
+      <workItem from="1640915350634" duration="2500000" />
+      <workItem from="1640920925407" duration="5066000" />
+      <workItem from="1640928521493" duration="443000" />
+      <workItem from="1640943600599" duration="2772000" />
     </task>
     <servers />
   </component>
